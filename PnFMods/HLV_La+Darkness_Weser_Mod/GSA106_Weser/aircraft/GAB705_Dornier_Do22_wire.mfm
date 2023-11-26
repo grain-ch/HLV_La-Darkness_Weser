@@ -1,0 +1,10 @@
+<GAB705_Dornier_Do22_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAB705_Dornier_Do22_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAB705_Dornier_Do22_mg.dds	</Texture>
+	</property>
+</GAB705_Dornier_Do22_wire.mfm>

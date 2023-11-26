@@ -1,0 +1,7 @@
+<GC014_Catapult_Weser_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/catapult/lods/GC014_Catapult_Weser_lod3	</parent>
+	<extent>	30.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/catapult/lods/GC014_Catapult_Weser_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GC014_Catapult_Weser_lod2.model>

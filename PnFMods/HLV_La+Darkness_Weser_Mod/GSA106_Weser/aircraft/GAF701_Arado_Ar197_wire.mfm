@@ -1,0 +1,10 @@
+<GAF701_Arado_Ar197_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAF701_Arado_Ar197_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAF701_Arado_Ar197_mg.dds	</Texture>
+	</property>
+</GAF701_Arado_Ar197_wire.mfm>
