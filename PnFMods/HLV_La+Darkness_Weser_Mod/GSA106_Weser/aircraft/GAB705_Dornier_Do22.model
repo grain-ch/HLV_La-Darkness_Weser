@@ -1,7 +1,6 @@
 <GAB705_Dornier_Do22.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/lods/GAB705_Dornier_Do22_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAB705_Dornier_Do22	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAB705_Dornier_Do22.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GAB705_Dornier_Do22.model>

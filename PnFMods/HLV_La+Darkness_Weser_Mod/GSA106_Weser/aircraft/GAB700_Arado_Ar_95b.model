@@ -1,7 +1,6 @@
 <GAB700_Arado_Ar_95b.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/lods/GAB700_Arado_Ar_95b_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAB700_Arado_Ar_95b	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/GAB700_Arado_Ar_95b.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </GAB700_Arado_Ar_95b.model>

@@ -1,7 +1,0 @@
-<GAF702_Messerschmitt_Bf109E_lod2.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/lods/GAF702_Messerschmitt_Bf109E_lod3	</parent>
-	<extent>	25.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_La+Darkness_Weser_Mod/GSA106_Weser/aircraft/lods/GAF702_Messerschmitt_Bf109E_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</GAF702_Messerschmitt_Bf109E_lod2.model>
